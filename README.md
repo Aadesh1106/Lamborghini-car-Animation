@@ -1,8 +1,8 @@
-# 🚗 Lamborghini Car Animation
+#  Lamborghini Car Animation
 
 This is a simple animated car project that simulates a Lamborghini moving along a track using **HTML**, **CSS**, and **JavaScript**. Ideal for beginners looking to learn basic web animations and DOM manipulation.
 
-## 🌟 Features
+##  Features
 
 - Animated Lamborghini car
 - Scrolling background track
@@ -10,13 +10,13 @@ This is a simple animated car project that simulates a Lamborghini moving along 
 - Sound effects
 - Mobile and desktop compatible
 
-## 🎮 Demo
+##  Demo
 
 You can view the live demo by downloading or cloning the project and opening `index.html` in your browser.
 
 ---
 
-## 🚀 How to Deploy Locally
+##  How to Deploy Locally
 
 Follow these steps to run the project on your local machine:
 
